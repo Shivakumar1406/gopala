@@ -20,3 +20,13 @@ transform: scale(1.05);
     height: 100%;
     object-fit: cover;
 }
+.bt{
+    padding :5px;
+    width:20%;
+    align-self:center;
+ background-color: springgreen;
+ border-radius: 1rem;
+}
+.bt:hover{
+    background:slateblue;
+}
