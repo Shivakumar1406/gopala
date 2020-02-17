@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shivakumar1406/gopla.git/static/css/main.4a185628.chunk.css",
+    "main.js": "/Shivakumar1406/gopla.git/static/js/main.94f9c71e.chunk.js",
+    "main.js.map": "/Shivakumar1406/gopla.git/static/js/main.94f9c71e.chunk.js.map",
+    "runtime-main.js": "/Shivakumar1406/gopla.git/static/js/runtime-main.1dcb2183.js",
+    "runtime-main.js.map": "/Shivakumar1406/gopla.git/static/js/runtime-main.1dcb2183.js.map",
+    "static/js/2.fb10d4da.chunk.js": "/Shivakumar1406/gopla.git/static/js/2.fb10d4da.chunk.js",
+    "static/js/2.fb10d4da.chunk.js.map": "/Shivakumar1406/gopla.git/static/js/2.fb10d4da.chunk.js.map",
+    "index.html": "/Shivakumar1406/gopla.git/index.html",
+    "precache-manifest.56f69eb6d4ed63f3d1f20fb08abeac7a.js": "/Shivakumar1406/gopla.git/precache-manifest.56f69eb6d4ed63f3d1f20fb08abeac7a.js",
+    "service-worker.js": "/Shivakumar1406/gopla.git/service-worker.js",
+    "static/css/main.4a185628.chunk.css.map": "/Shivakumar1406/gopla.git/static/css/main.4a185628.chunk.css.map",
+    "static/js/2.fb10d4da.chunk.js.LICENSE.txt": "/Shivakumar1406/gopla.git/static/js/2.fb10d4da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dcb2183.js",
+    "static/js/2.fb10d4da.chunk.js",
+    "static/css/main.4a185628.chunk.css",
+    "static/js/main.94f9c71e.chunk.js"
+  ]
+}
